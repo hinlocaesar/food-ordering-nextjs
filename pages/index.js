@@ -10,7 +10,6 @@ export default function Home() {
         <meta name="description" content="Best Pizz Shop in town" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      Home page
     </div>
   );
 }
